@@ -1,3 +1,7 @@
+C = Challenger
+I = Incumbent
+O = Open Seat is used to indicate an open seat; Open seats are defined as seats where the incumbent never sought re-election.
+
 | Column name            | Field name                                    | Position | Null | Data type        | Description                                            | Example data      |
 |------------------------|-----------------------------------------------|----------|------|------------------|--------------------------------------------------------|-------------------|
 | CAND_ID                | Candidate identification                      | 1        | N    | VARCHAR2 (9)     |                                                        | H8VA01233         |
