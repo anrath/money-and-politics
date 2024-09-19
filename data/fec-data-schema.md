@@ -18,7 +18,7 @@
 | OTHER_LOAN_REPAY       | Other loan repayments                         | 16       | Y    | Number(14,2)     |                                                        | 0.00              |
 | DEBTS_OWED_BY          | Debts owed by                                 | 17       | Y    | Number(14,2)     |                                                        | 250.00            |
 | TTL_INDIV_CONTRIB      | Total individual contributions                | 18       | Y    | Number(14,2)     |                                                        | 450000.00         |
-| CAND_OFFICE_ST         | Candidate state                               | 19       | Y    | VARCHAR2(2       |                                                        | VA                |
+| CAND_OFFICE_ST         | Candidate state                               | 19       | Y    | VARCHAR2(2)      |                                                        | VA                |
 | CAND_OFFICE_DISTRICT   | Candidate district                            | 20       | Y    | VARCHAR2(2)      |                                                        | 01                |
 | SPEC_ELECTION          | Special election status                       | 21       | Y    | VARCHAR2(1)      | Election result data included in 1996-2006 files only. | W                 |
 | PRIM_ELECTION          | Primary election status                       | 22       | Y    | VARCHAR2(1)      | Election result data included in 1996-2006 files only. | L                 |
