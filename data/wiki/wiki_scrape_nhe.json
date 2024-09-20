@@ -1,0 +1,485 @@
+{
+    "2022": [
+        {
+            "party": "Republican Party",
+            "votes": 54227992,
+            "percentage": 50.01,
+            "change": "+2.78",
+            "seats_prev": "213",
+            "seats_curr": "222",
+            "seat_change": "9",
+            "strength": "51.0"
+        },
+        {
+            "party": "Democratic Party",
+            "votes": 51280463,
+            "percentage": 47.29,
+            "change": "-2.97",
+            "seats_prev": "222",
+            "seats_curr": "213",
+            "seat_change": "9",
+            "strength": "49.0"
+        },
+        {
+            "party": "Libertarian Party",
+            "votes": 724264,
+            "percentage": 0.67,
+            "change": "-0.05",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Independent",
+            "votes": 515322,
+            "percentage": 0.47,
+            "change": "+0.19",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Green Party",
+            "votes": 69802,
+            "percentage": 0.06,
+            "change": "=",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Constitution Party",
+            "votes": 29886,
+            "percentage": 0.03,
+            "change": "-0.02",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Other parties",
+            "votes": 1481822,
+            "percentage": 1.37,
+            "change": "+0.08",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Write-ins",
+            "votes": 113836,
+            "percentage": 0.1,
+            "change": "=",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        }
+    ],
+    "2020": [
+        {
+            "party": "Democratic Party",
+            "votes": 77122690,
+            "percentage": 50.3,
+            "change": "-3.1",
+            "seats_prev": "235",
+            "seats_curr": "222",
+            "seat_change": "13",
+            "strength": "51.0"
+        },
+        {
+            "party": "Republican Party",
+            "votes": 72466576,
+            "percentage": 47.2,
+            "change": "+2.4",
+            "seats_prev": "199",
+            "seats_curr": "213",
+            "seat_change": "14",
+            "strength": "49.0"
+        },
+        {
+            "party": "Libertarian Party",
+            "votes": 1100639,
+            "percentage": 0.7,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Independent",
+            "votes": 431984,
+            "percentage": 0.3,
+            "change": "-0.2",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Green Party",
+            "votes": 90121,
+            "percentage": 0.1,
+            "change": "-0.1",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Constitution Party",
+            "votes": 77848,
+            "percentage": 0.1,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Other parties",
+            "votes": 1982993,
+            "percentage": 1.3,
+            "change": "+1.3",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        },
+        {
+            "party": "Write-ins",
+            "votes": 158554,
+            "percentage": 0.1,
+            "change": "+0.1",
+            "seats_prev": null,
+            "seats_curr": null,
+            "seat_change": null,
+            "strength": null
+        }
+    ],
+    "2018": [
+        {
+            "party": "Democratic Party",
+            "votes": 194,
+            "percentage": 235.0,
+            "change": "41",
+            "seats_prev": "54.0",
+            "seats_curr": "60,572,245",
+            "seat_change": "53.4",
+            "strength": "+5.4"
+        },
+        {
+            "party": "Republican Party",
+            "votes": 241,
+            "percentage": 199.0,
+            "change": "42",
+            "seats_prev": "45.7",
+            "seats_curr": "50,861,970",
+            "seat_change": "44.8",
+            "strength": "-4.3"
+        },
+        {
+            "party": "Libertarian Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "758,492",
+            "seat_change": "0.7",
+            "strength": "-0.6"
+        },
+        {
+            "party": "Independent",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "569,502",
+            "seat_change": "0.5",
+            "strength": "-0.2"
+        },
+        {
+            "party": "Green Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "247,231",
+            "seat_change": "0.2",
+            "strength": "-0.2"
+        },
+        {
+            "party": "Constitution Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "59,972",
+            "seat_change": "0.1",
+            "strength": null
+        },
+        {
+            "party": "Others",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "343,577",
+            "seat_change": "0.3",
+            "strength": "-0.1"
+        }
+    ],
+    "2016": [
+        {
+            "party": "Republican Party",
+            "votes": 247,
+            "percentage": 241.0,
+            "change": "6",
+            "seats_prev": "55.4",
+            "seats_curr": "63,182,073",
+            "seat_change": "49.1",
+            "strength": "-2.1"
+        },
+        {
+            "party": "Democratic Party",
+            "votes": 188,
+            "percentage": 194.0,
+            "change": "6",
+            "seats_prev": "44.6",
+            "seats_curr": "61,765,832",
+            "seat_change": "48.0",
+            "strength": "+2.5"
+        },
+        {
+            "party": "Libertarian Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "1,661,199",
+            "seat_change": "1.3",
+            "strength": "+0.1"
+        },
+        {
+            "party": "Independent",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "878,234",
+            "seat_change": "0.7",
+            "strength": "-0.1"
+        },
+        {
+            "party": "Green Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "491,095",
+            "seat_change": "0.4",
+            "strength": "+0.1"
+        },
+        {
+            "party": "Constitution Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "127,374",
+            "seat_change": "0.1",
+            "strength": null
+        },
+        {
+            "party": "Others",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "521,203",
+            "seat_change": "0.4",
+            "strength": "-0.2"
+        }
+    ],
+    "2014": [],
+    "2012": [
+        {
+            "party": "Republican Party",
+            "votes": 242,
+            "percentage": 234.0,
+            "change": "8",
+            "seats_prev": "53.8",
+            "seats_curr": "58,283,314",
+            "seat_change": "47.7",
+            "strength": "\u22124.0"
+        },
+        {
+            "party": "Democratic Party",
+            "votes": 193,
+            "percentage": 201.0,
+            "change": "8",
+            "seats_prev": "46.2",
+            "seats_curr": "59,645,531",
+            "seat_change": "48.8",
+            "strength": "+3.9"
+        },
+        {
+            "party": "Libertarian Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "1,360,925",
+            "seat_change": "1.1",
+            "strength": "\u22120.1"
+        },
+        {
+            "party": "Independent",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "1,240,672",
+            "seat_change": "1.0",
+            "strength": "+0.4"
+        },
+        {
+            "party": "Green Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "373,455",
+            "seat_change": "0.3",
+            "strength": null
+        },
+        {
+            "party": "Constitution Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "111,576",
+            "seat_change": "0.1",
+            "strength": "\u22120.1"
+        },
+        {
+            "party": "Reform Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "70,682",
+            "seat_change": "0.1",
+            "strength": "+0.1"
+        },
+        {
+            "party": "Others",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "1,205,344",
+            "seat_change": "1.0",
+            "strength": "+0.1"
+        }
+    ],
+    "2010": [
+        {
+            "party": "Republican Party",
+            "votes": 178,
+            "percentage": 242.0,
+            "change": "64",
+            "seats_prev": "55.6",
+            "seats_curr": "44,829,751",
+            "seat_change": "51.7",
+            "strength": "9.1"
+        },
+        {
+            "party": "Democratic Party",
+            "votes": 257,
+            "percentage": 193.0,
+            "change": "64",
+            "seats_prev": "44.4",
+            "seats_curr": "38,980,192",
+            "seat_change": "44.9",
+            "strength": "8.3"
+        },
+        {
+            "party": "Libertarian Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "1,010,891",
+            "seat_change": "1.2",
+            "strength": "0.3"
+        },
+        {
+            "party": "Independent",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "516,733",
+            "seat_change": "0.6",
+            "strength": ""
+        },
+        {
+            "party": "Green Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "252,688",
+            "seat_change": "0.3",
+            "strength": "0.2"
+        },
+        {
+            "party": "Constitution Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "195,008",
+            "seat_change": "0.2",
+            "strength": "0.1"
+        },
+        {
+            "party": "Independence Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "139,473",
+            "seat_change": "0.2",
+            "strength": "0.1"
+        },
+        {
+            "party": "American Independent Party",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "56,907",
+            "seat_change": "0.1",
+            "strength": "0.1"
+        },
+        {
+            "party": "Others",
+            "votes": null,
+            "percentage": null,
+            "change": null,
+            "seats_prev": null,
+            "seats_curr": "799,461",
+            "seat_change": "0.9",
+            "strength": "0.8"
+        }
+    ]
+}
