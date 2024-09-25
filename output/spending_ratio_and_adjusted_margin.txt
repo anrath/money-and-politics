@@ -1,0 +1,5 @@
+Correlation for Incumbent vs Challenger: 0.3798
+Correlation for Open Seat: 0.4290
+Correlation for Challenger vs Incumbent: 0.0540
+Overall correlation between Spending Ratio and Adjusted Vote Margin (outliers removed): 0.4148
+Number of data points removed as outliers: 244
